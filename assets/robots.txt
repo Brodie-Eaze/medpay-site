@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://medpay.up.railway.app/assets/sitemap.xml
